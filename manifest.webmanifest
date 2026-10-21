@@ -1,0 +1,20 @@
+{
+  "name": "Saphal Economics PhD",
+  "short_name": "Econ PhD",
+  "description": "PhD roadmap, verified funding records, economics encyclopedia, labs and research workspace. Works offline.",
+  "id": "/saphal-economics-phd/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#11161f",
+  "theme_color": "#11161f",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
